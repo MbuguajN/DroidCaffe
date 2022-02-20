@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_fast_food"
+            android:icon="@drawable/fast_food"
+            android:title="@string/fast_food" />
+
+        <item
+            android:id="@+id/nav_drinks"
+            android:icon="@drawable/drinks"
+            android:title="@string/drinks" />
+
+        <item
+            android:id="@+id/nav_delivery"
+            android:icon="@drawable/deliver_food"
+            android:title="@string/delivery" />
+
+    </group>
+
+    <item android:title="@string/communicate">
+
+        <menu>
+            <item
+                android:id="@+id/nav_contact"
+                android:icon="@drawable/contact_us"
+                android:title="@string/contact_us" />
+
+            <item
+                android:id="@+id/nav_about_us"
+                android:icon="@drawable/about_us"
+                android:title="@string/about_us" />
+
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/share"
+                android:title="@string/share" />
+
+
+        </menu>
+
+    </item>
+
+</menu>

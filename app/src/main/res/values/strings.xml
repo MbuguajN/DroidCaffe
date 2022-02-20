@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Droid Caffe</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_dessert_recipe_fragment" />
+    <string name="hello_pastries_recipe_fragment">hello_pastries_recipe_fragment</string>
+    <string name="hello_stores_fragment">hello_stores_fragment</string>
+    <string name="tab_label_1">Dessert</string>
+    <string name="tab_label_2">Pastries</string>
+    <string name="tab_label_3">Stores</string>
+    <string name="dessert_recipes">Dessert Recipes</string>
+    <string name="prep_cook_time_2hrs">Prep cook Time: 2hrs</string>
+    <string name="recipe_title">recipe Title</string>
+    <string name="recipe_short_description">Recipe Short Description</string>
+    <string name="browse_recipes">browse recipes</string>
+    <string name="how_to_prepare_donuts">How to prepare Donuts</string>
+    <string name="fast_food">Fast food</string>
+    <string name="drinks">Drinks</string>
+    <string name="delivery">Delivery</string>
+    <string name="communicate">communicate</string>
+    <string name="contact_us">contact us</string>
+    <string name="about_us">about us</string>
+    <string name="share">share</string>
+    <string name="nai_foods">NAI FOODS</string>
+    <string name="info_foodmarket_com">info@foodmarket.com</string>
+    <string name="nav_image">nav_image</string>
+    <string name="navigation_drawer_open">open navigation drawer</string>
+    <string name="navigation_drawer_close">close navigation drawer</string>
+    <string name="droid_caffe">Droid caffe</string>
+    <string name="get_your_fast_food">Get your fast food!!</string>
+    <string name="get_your_drinks">Get your drinks</string>
+    <string name="pastries_recipes">Pastries recipes</string>
+
+    <array name="desserts_images">
+        <item>@drawable/donut</item>
+        <item>@drawable/yoghurt</item>
+        <item>@drawable/sandwich</item>
+        <item>@drawable/donut</item>
+        <item>@drawable/yoghurt</item>
+        <item>@drawable/sandwich</item>
+        <item>@drawable/donut</item>
+        <item>@drawable/yoghurt</item>
+        <item>@drawable/sandwich</item>
+
+    </array>
+
+    <string-array name="dessert_title">
+        <item>Donut</item>
+        <item>Yoghurt</item>
+        <item>Sandwich</item>
+        <item>Donut</item>
+        <item>Yoghurt</item>
+        <item>Sandwich</item>
+        <item>Donut</item>
+        <item>Yoghurt</item>
+        <item>Sandwich</item>
+    </string-array>
+
+    <string-array name="dessert_description">
+        <item>Donuts are glazed and filled with candy</item>
+        <item>Yoghurt is a premium self-serve frozen yoghurt</item>
+        <item>sandwiches have chocolate and vanilla filling</item>
+        <item>Donuts are glazed and filled with candy</item>
+        <item>Yoghurt is a premium self-serve frozen yoghurt</item>
+        <item>sandwiches have chocolate and vanilla filling</item>
+        <item>Donuts are glazed and filled with candy</item>
+        <item>Yoghurt is a premium self-serve frozen yoghurt</item>
+        <item>sandwiches have chocolate and vanilla filling</item>
+    </string-array>
+
+</resources>

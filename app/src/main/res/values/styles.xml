@@ -1,0 +1,23 @@
+
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorPrimary">@color/purple_700</item>
+        <item name="colorPrimaryDark" tools:ignore="DuplicateDefinition">@color/purple_500</item>
+        <item name="colorAccent">@color/teal_200</item>
+
+
+    </style>
+    <style name="app_title">
+        <item name="android:fontFamily">@font/amsterdam</item>
+        <item name="android:textColor">@color/grey_dark</item>
+        <item name="android:textSize">17sp</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+</resources>
